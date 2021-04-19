@@ -19,7 +19,8 @@
 - [HTML](#)
 - [CSS](#)
 - [JavaScript](#)
-- [SVG](#)
+- [CRUD JSON](#) internal database in the browser
+- [SVG](#) animations
 - [Glassmorphism](#)
 - [Neomorphism](#)
 
