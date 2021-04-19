@@ -23,7 +23,7 @@
 - [Glassmorphism](#)
 - [Neomorphism](#)
 
-## 💻 Acess the site 🚀
+## 💻 Access the web app
 
 
 Access the site through this link:
