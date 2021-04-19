@@ -14,6 +14,7 @@
   <img alt="Gen4gen" src="./.github/preview.PNG" width="100%">
 </p>
 
+
 ## 📚 Tecnologies
 
 - [HTML](#)
@@ -23,6 +24,8 @@
 - [SVG](#) animations
 - [Glassmorphism](#)
 - [Neomorphism](#)
+- [Voice Recognition](#)
+
 
 ## 💻 Access the web app
 
