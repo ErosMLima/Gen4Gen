@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Gen4gen" title="dev.finances" src="./assets/logo.svg"/>
+    <img alt="Gen4gen" title="Gen4gen" src=""/>
 </h1>
 
 <p align="center">
@@ -25,9 +25,12 @@
 
 ## 💻 Acess the site 🚀
 
+
 Access the site through this link:
 
-* [Click Here](https://.erosmlima.vercel.app/)
+* [Click Here](https://gen4gen.vercel.app/)
+
+
 ## ♻️ Project
 
 Find a job using this app
@@ -37,7 +40,6 @@ Find a job using this app
 Acessibility (Voice/Audio) * need internet to listem
 Animated Background with Glassmorphism (SVG)
 Input and Outputs (Just in time)
-
 
 
 <p align="center">Developed by ErosMLima²</p>
